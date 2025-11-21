@@ -1,13 +1,36 @@
-# Flight-analysis-using-Apache-Spark
+✈️ Flight Analysis Using Apache Spark
 
-This project applies PySpark and Python data visualization to analyze real-world-style flight data. The dataset contains flight records with timestamps, airports, airlines, and seat/passenger counts with 1 million records.
+Big Data Project — PySpark + Python Visualization
 
-Note: Please contact me if you need the dataset.
+This project applies Apache Spark (PySpark) and Python data visualization to analyze large-scale flight data.
+The dataset (1 million+ records) includes:
 
-🚀 How to Run?
+Departure & arrival timestamps
 
-1- Install PySpark in python
+Source & destination airports
 
-2- Update the file path to your local trip.txt
+Airline information
 
-3- Run the script in any PySpark-enabled environment
+Passenger & seat counts
+
+📌 Note: The dataset is not publicly uploaded. Please contact me if you need access to the data.
+
+🔍 Project Overview
+
+Using PySpark's RDD API, this project performs several analytical tasks, including:
+
+- Time-based filtering and transformation
+
+- Counting flights per day / month
+
+- Extracting flights by airport and time ranges
+
+- Calculating occupancy rates
+
+- Storing results as distributed output
+
+- Visualizing results using Matplotlib
+
+- This showcases strong proficiency with Big Data processing, distributed computations, and data visualization.
+
+- Contact If you need the dataset or have questions about the project, feel free to reach out 📬.
