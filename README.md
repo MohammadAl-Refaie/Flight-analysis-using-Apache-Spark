@@ -3,11 +3,14 @@
 Big Data Project — PySpark + Python Visualization
 
 This project applies Apache Spark (PySpark) and Python data visualization to analyze large-scale flight data.
-The dataset (1 million+ records) includes:
+The dataset (1 million records) includes:
 
 1- Departure & arrival timestamps
+
 2- Source & destination airports
+
 3- Airline information
+
 4- Passenger & seat counts
 
 📌 Note: The dataset is not publicly uploaded. Please contact me if you need access to the data.
