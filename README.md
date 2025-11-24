@@ -26,4 +26,4 @@ Using PySpark's RDD API, this project performs several analytical tasks, includi
 - Storing results as distributed output
 - Visualizing results using Matplotlib
 - This showcases strong proficiency with Big Data processing, distributed computations, and data visualization.
-- Contact If you need the dataset or have questions about the project, feel free to reach out 📬.
+- If you have questions about the project, feel free to reach out 📬.
